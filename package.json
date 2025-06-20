@@ -1,0 +1,15 @@
+{
+  "name": "blog-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "blog",
+    "javascript"
+  ],
+  "author": "shawrich",
+  "license": "ISC",
+  "description": ""
+}
