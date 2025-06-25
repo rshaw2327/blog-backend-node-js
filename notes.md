@@ -136,3 +136,43 @@ $ touch user.controllers.js blog.controllers.js
 
 rshaw@Rich MINGW64 /c/HTML backup/blog website/controllers (master)
 $
+
+ cd ../
+
+rshaw@Rich MINGW64 /c/HTML backup/blog website (master)
+$ cd models
+
+rshaw@Rich MINGW64 /c/HTML backup/blog website/models (master)
+$ touch user.model.js blog.model.js
+
+rshaw@Rich MINGW64 /c/HTML backup/blog website/models (master)
+$ cd ../routes
+
+rshaw@Rich MINGW64 /c/HTML backup/blog website/routes (master)
+$ touch user.route.js blog.route.js
+
+rshaw@Rich MINGW64 /c/HTML backup/blog website/routes (master)
+$ cd ../controllers
+
+rshaw@Rich MINGW64 /c/HTML backup/blog website/controllers (master)
+$ touch user.controllers.js blog.controllers.js
+
+rshaw@Rich MINGW64 /c/HTML backup/blog website/controllers (master)
+$ cd ../middleware
+
+rshaw@Rich MINGW64 /c/HTML backup/blog website/middleware (master)
+$ touch auth.middleware.js
+
+rshaw@Rich MINGW64 /c/HTML backup/blog website/middleware (master)
+$ git remote add origin https://github.com/rshaw2327/blog-backend-node-js.git
+git branch -M main
+git push -u origin main
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (11/11), 3.08 KiB | 789.00 KiB/s, done.
+Total 11 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/rshaw2327/blog-backend-node-js.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
